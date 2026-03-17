@@ -31,7 +31,7 @@ def get_atp_results() -> list[dict]:
         for card in match_cards:
             text = card.get_text(separator=" ", strip=True)
             if text:
-                results.append({"source": "ATP", "content": text[:300]})
+                results.append({"source": "ATP", "content": text[:300], "url": url})
 
         if not results:
             # フォールバック: ページの主要テキストから抽出
@@ -39,7 +39,7 @@ def get_atp_results() -> list[dict]:
             if main:
                 text = main.get_text(separator="\n", strip=True)
                 lines = [l for l in text.split("\n") if l.strip()][:MAX_MATCH_RESULTS * 3]
-                results.append({"source": "ATP", "content": "\n".join(lines)[:500]})
+                results.append({"source": "ATP", "content": "\n".join(lines)[:500], "url": url})
 
     except Exception as e:
         results.append({"source": "ATP", "content": f"取得エラー: {e}"})

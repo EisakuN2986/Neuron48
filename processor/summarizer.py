@@ -11,10 +11,15 @@ def generate_report(data: dict) -> str:
     match_data = data.get("試合結果・ランキング", {})
     if match_data.get("items"):
         lines.append("📊 試合結果・ランキング")
+        seen_urls = set()
         for item in match_data["items"]:
             content = item.get("content") or item.get("title", "")
+            url = item.get("url", "")
             if content:
                 lines.append(f"・{content[:200]}")
+                if url and url not in seen_urls:
+                    lines.append(f"  {url}")
+                    seen_urls.add(url)
         lines.append("")
 
     # ニュース
@@ -23,7 +28,7 @@ def generate_report(data: dict) -> str:
         lines.append("📰 最新ニュース")
         for item in news_data["items"][:5]:
             title = item.get("title", "")
-            url = item.get("url", "")
+            url = item.get("link", "") or item.get("url", "")
             if title:
                 lines.append(f"・{title}")
                 if url:
@@ -37,8 +42,11 @@ def generate_report(data: dict) -> str:
         for item in paper_data["items"][:3]:
             title = item.get("title", "")
             journal = item.get("journal", "")
+            url = item.get("link", "")
             if title:
                 lines.append(f"・{title}" + (f" ({journal})" if journal else ""))
+                if url:
+                    lines.append(f"  {url}")
         lines.append("")
 
     # YouTube

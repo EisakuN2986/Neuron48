@@ -13,10 +13,12 @@ YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 
 # --- RSS Feeds (テニスニュースサイト) ---
 RSS_FEEDS = [
-    "https://www.tennisabstract.com/blog/feed/",
-    "https://www.tennisworld.net/feed/",
-    "https://www.tennisworldusa.org/rss/news.xml",
+    # 日本語ソース
+    "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja",
+    "https://sports.yahoo.co.jp/rss/sports/tennis/",
+    # 英語ソース（主要）
     "https://www.atptour.com/en/media/rss-feed/xml-feed",
+    "https://www.tennisworldusa.org/rss/news.xml",
 ]
 
 # --- Google Scholar / PubMed 検索クエリ ---
@@ -29,9 +31,9 @@ SCHOLAR_QUERIES = [
 
 # --- YouTube 検索クエリ ---
 YOUTUBE_QUERIES = [
-    "tennis coaching tips",
-    "tennis technique analysis",
-    "ATP tennis match highlights",
+    "テニス 技術解説",
+    "テニス コーチング",
+    "ATP テニス 試合",
 ]
 
 # --- データ保存先 ---
