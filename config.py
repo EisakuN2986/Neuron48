@@ -1,8 +1,8 @@
 import os
 
-# --- Anthropic Claude API ---
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-CLAUDE_MODEL = "claude-sonnet-4-6"
+# --- Google Gemini API (無料枠: 1日1,500リクエスト) ---
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+GEMINI_MODEL = "gemini-2.0-flash"
 
 # --- LINE Messaging API ---
 LINE_CHANNEL_ACCESS_TOKEN = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN", "")

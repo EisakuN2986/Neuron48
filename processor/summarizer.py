@@ -1,10 +1,10 @@
-"""Claude API を使ってテニス情報を要約し、コーチング考察を生成する"""
-import anthropic
+"""Google Gemini API を使ってテニス情報を要約し、コーチング考察を生成する"""
+import google.generativeai as genai
 from datetime import datetime
 import sys
 import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
-from config import ANTHROPIC_API_KEY, CLAUDE_MODEL
+from config import GEMINI_API_KEY, GEMINI_MODEL
 
 
 def _build_prompt(data: dict) -> str:
@@ -87,20 +87,19 @@ def _build_prompt(data: dict) -> str:
 
 
 def generate_report(collected_data: dict) -> str:
-    """Claude API でモーニングレポートを生成する"""
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    """Gemini API でモーニングレポートを生成する"""
+    if not GEMINI_API_KEY:
+        return "⚠️ GEMINI_API_KEY が設定されていません。GitHub Secrets を確認してください。"
+
+    genai.configure(api_key=GEMINI_API_KEY)
+    model = genai.GenerativeModel(GEMINI_MODEL)
     prompt = _build_prompt(collected_data)
 
     try:
-        message = client.messages.create(
-            model=CLAUDE_MODEL,
-            max_tokens=2000,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        return message.content[0].text
+        response = model.generate_content(prompt)
+        return response.text
 
     except Exception as e:
-        # フォールバック: API エラー時はデータをそのままフォーマット
         today = datetime.now().strftime("%Y年%m月%d日")
         return f"""🎾 テニス モーニングレポート {today}
 
@@ -110,7 +109,6 @@ def generate_report(collected_data: dict) -> str:
 
 
 if __name__ == "__main__":
-    # テスト実行
     sample_data = {
         "テニスニュース": {
             "items": [

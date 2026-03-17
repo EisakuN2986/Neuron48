@@ -21,7 +21,7 @@
 
 | Secret 名 | 説明 | 取得方法 |
 |---|---|---|
-| `ANTHROPIC_API_KEY` | Claude API キー | [Anthropic Console](https://console.anthropic.com/) |
+| `GEMINI_API_KEY` | Google Gemini API キー（無料） | [Google AI Studio](https://aistudio.google.com/apikey) |
 | `LINE_CHANNEL_ACCESS_TOKEN` | LINE チャンネルアクセストークン | LINE Developers Console |
 | `LINE_USER_ID` | 配信先の LINE ユーザー ID | LINE Developers で Webhook 確認 |
 | `YOUTUBE_API_KEY` | YouTube Data API キー（任意） | Google Cloud Console |
