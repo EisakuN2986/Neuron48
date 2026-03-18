@@ -2,7 +2,13 @@
 import re
 
 URL_PATTERN = re.compile(r'https?://[^\s<>"]+')
-SECTION_STARTS = ('①', '②', '③', '④', '⑤', '⑥')
+
+# Gemini形式: ① 📊 ... / フォールバック形式: 📊 ...
+SECTION_STARTS = ('①', '②', '③', '④', '⑤', '⑥',
+                  '📊', '📰', '🔬', '▶️', '💡', '✅')
+
+# タイトル行として無視するパターン
+TITLE_PREFIXES = ('🎾',)
 
 
 def _linkify(text: str) -> str:
@@ -13,7 +19,7 @@ def _linkify(text: str) -> str:
 
 
 def _parse_sections(report_text: str) -> list[tuple[str, list[str]]]:
-    """レポートテキストをセクションのリストに分割する"""
+    """レポートテキストをセクションのリストに分割する（両フォーマット対応）"""
     sections = []
     current_title = None
     current_items: list[str] = []
@@ -22,13 +28,17 @@ def _parse_sections(report_text: str) -> list[tuple[str, list[str]]]:
         stripped = line.strip()
         if not stripped:
             continue
+        # メインタイトル行（🎾 テニス朝刊...）はスキップ
+        if stripped.startswith(TITLE_PREFIXES) and current_title is None and not stripped.startswith('🎾 テニスの'):
+            continue
         if stripped.startswith(SECTION_STARTS):
             if current_title is not None:
                 sections.append((current_title, current_items[:]))
             current_title = stripped
             current_items = []
         else:
-            current_items.append(stripped)
+            if current_title is not None:
+                current_items.append(stripped)
 
     if current_title is not None:
         sections.append((current_title, current_items[:]))
