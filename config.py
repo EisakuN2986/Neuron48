@@ -12,13 +12,15 @@ LINE_USER_ID = os.environ.get("LINE_USER_ID", "")
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 
 # --- RSS Feeds (テニスニュースサイト) ---
+# ★ 海外1次情報を優先して配置 ★
 RSS_FEEDS = [
-    # 日本語ソース
+    # 海外公式・1次情報（優先）
+    "https://www.atptour.com/en/media/rss-feed/xml-feed",       # ATP Tour 公式
+    "https://feeds.bbci.co.uk/sport/tennis/rss.xml",            # BBC Sport Tennis
+    "https://www.tennisworldusa.org/rss/news.xml",               # Tennis World USA
+    "https://www.tennis.com/rss/",                               # Tennis.com
+    # 日本語ソース（補足）
     "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja",
-    "https://sports.yahoo.co.jp/rss/sports/tennis/",
-    # 英語ソース（主要）
-    "https://www.atptour.com/en/media/rss-feed/xml-feed",
-    "https://www.tennisworldusa.org/rss/news.xml",
 ]
 
 # --- Google Scholar / PubMed 検索クエリ ---
@@ -40,7 +42,7 @@ YOUTUBE_QUERIES = [
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 
 # --- レポート設定 ---
-MAX_NEWS_ITEMS = 5
-MAX_PAPERS = 3
-MAX_YOUTUBE_VIDEOS = 3
+MAX_NEWS_ITEMS = 8
+MAX_PAPERS = 5
+MAX_YOUTUBE_VIDEOS = 5
 MAX_MATCH_RESULTS = 5
