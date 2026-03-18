@@ -1,7 +1,7 @@
 {
   "試合結果・ランキング": {
     "category": "試合結果・ランキング",
-    "collected_at": "2026-03-18T00:48:23.179355",
+    "collected_at": "2026-03-18T00:52:35.028323",
     "items": [
       {
         "source": "ATP",
@@ -16,20 +16,13 @@
   },
   "テニスニュース": {
     "category": "テニスニュース",
-    "collected_at": "2026-03-18T00:48:26.337763",
+    "collected_at": "2026-03-18T00:52:38.065351",
     "items": [
       {
         "title": "【テニス速報】 マイアミ・オープン 第1日 ジャン シューアイ vs ソラナ チルステア - ｄメニューニュース",
         "summary": "【テニス速報】 マイアミ・オープン 第1日 ジャン シューアイ vs ソラナ チルステア&nbsp;&nbsp;ｄメニューニュース",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQnZjWFZIOFFzUjZ3dU5JLWozdURxUFNuY0tmTWJFQ1NZZ3pMbE1rUl9MQUNjc1hmdnp2SUlqbEF0X2U0TWdOXzFRbGJtOFJsZDFWNW5CaVI0QUIzTE12YzdGSHQ0MkNtSEV5bnJ4R0U0eEZtdG1QRFZyaVczWTZpY0JkUXXSAYoBQVVfeXFMTmhUTTZlZ3Jqd09uYXZVWXVRUHF3T2ctTE5nQXZHQUFOclR1T1hvVnRGd3hyRkRBTU9rajE1WHJpRUg1Zk9KNjBiODdZeld1SWRvMVFsbEttYks5ZTRMbndiMF9kdE55MlBYNm9jZHRtRWZSTUY2eDFvM1UzZ2RTUXZYRUJ4VUlYZVJn?oc=5",
         "published": "Wed, 18 Mar 2026 00:12:00 GMT",
-        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
-      },
-      {
-        "title": "【テニス速報】 マイアミ・オープン 第1日 ケイティ ボウルター vs ジェシカ ボウサス マネイロ - ｄメニューニュース",
-        "summary": "【テニス速報】 マイアミ・オープン 第1日 ケイティ ボウルター vs ジェシカ ボウサス マネイロ&nbsp;&nbsp;ｄメニューニュース",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUxQWnBieFFaeTQwd1BhMzE1RWNIXzYwbWluTGZVYmFZNmh0MUJNZWtCNTdJSDRKSDgtOWpMeFdITUJad2ZWenVsMHpxM2pWSVRrcWJ3V3ZDZFRsRlA4UEZ6dzExZTBIbFdiUmEyMWtYQVZTVm93emV5em1GSk9JTGUzbnbSAYoBQVVfeXFMUERDU0ZCU3RQc01GRkZVblg1cjJ4enlLTWsxclg2bHVaYzBLUi15dnF4eXJVQlVRYWs4Y1N0aDY0ZkUwM2NPbUxFS21BUmRURmFFNmQ3M253bVVnUVRKVkFzMEZJT0pDTU9ubUJwd0dtN1ZEUjdIdEVoWEVSQ0pJVlJKNG9YenM5T2VR?oc=5",
-        "published": "Tue, 17 Mar 2026 23:18:03 GMT",
         "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
       },
       {
@@ -68,6 +61,13 @@
         "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
       },
       {
+        "title": "綿貫陽介 右膝負傷でマイアミオープン欠場＜男子テニス＞（tennis365.net） - Yahoo!ニュース",
+        "summary": "綿貫陽介 右膝負傷でマイアミオープン欠場＜男子テニス＞（tennis365.net）&nbsp;&nbsp;Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GSXgweVJfSkpnR0RwUTI3UUtrUGxyZWVxRVdVcDBzRDZkVjV4Ui1zbVdMT1pEdG1tZHY1Tnluek5JZlZpQy1yX3FOQWVSQW90WjhnbEttdWtsY204SGlEcXNxT0h2andMdW5XNXZsVWdIT1B5MDJIeUpFaUZZMkE?oc=5",
+        "published": "Mon, 16 Mar 2026 23:21:47 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
         "title": "園田彩乃、仲良しプロテニス選手らとの笑顔の3ショットに「明らかにデカい」と注目集まる - 47NEWS",
         "summary": "園田彩乃、仲良しプロテニス選手らとの笑顔の3ショットに「明らかにデカい」と注目集まる&nbsp;&nbsp;47NEWS",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GaE5EcmpqRUVHM2podWEzTlBIQW9zVkhIQ2pkdno2V0FpM050WTl4eUpBS2xfZjdNbDRRYkVzYlJfcEp2R3Z4U1BDNA?oc=5",
@@ -92,7 +92,7 @@
   },
   "テニス論文・研究": {
     "category": "テニス論文・研究",
-    "collected_at": "2026-03-18T00:48:33.649346",
+    "collected_at": "2026-03-18T00:52:46.637915",
     "items": [
       {
         "title": "Validation of the Transformer-Based Monocular System (Capture4D): A Real-Time Kinematic Analysis in Coaching/Teaching Tennis.",
@@ -146,7 +146,7 @@
   },
   "YouTube テニス動画": {
     "category": "YouTube テニス動画",
-    "collected_at": "2026-03-18T00:48:33.649397",
+    "collected_at": "2026-03-18T00:52:46.637988",
     "items": [
       {
         "title": "YouTube API キー未設定",
@@ -168,5 +168,5 @@
       }
     ]
   },
-  "collected_at": "2026-03-18T00:48:33.649401"
+  "collected_at": "2026-03-18T00:52:46.637993"
 }
