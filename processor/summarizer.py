@@ -4,7 +4,7 @@ from datetime import datetime
 
 import google.generativeai as genai
 
-from config import GEMINI_API_KEY, GEMINI_MODEL
+from config import GEMINI_API_KEY, GEMINI_MODEL, MAX_PAPERS
 
 
 def _build_prompt(data: dict) -> str:
@@ -38,17 +38,27 @@ def _build_prompt(data: dict) -> str:
                 sections.append(line)
 
     paper_items = data.get("テニス論文・研究", {}).get("items", [])
+    sections.append("\n## 論文・研究（PubMed 1次情報 ※必ずレポートに含めること）")
     if paper_items:
-        sections.append("\n## 論文・研究")
-        for item in paper_items[:5]:
+        for item in paper_items[:MAX_PAPERS]:
             title = item.get("title", "")
             journal = item.get("journal", "")
+            published = item.get("published", "")
+            authors = item.get("authors", "")
+            abstract = item.get("abstract", "")
             url = item.get("link", "")
             if title:
-                line = f"- {title}" + (f" ({journal})" if journal else "")
+                meta = " | ".join(filter(None, [journal, published, authors]))
+                line = f"- タイトル: {title}"
+                if meta:
+                    line += f"\n  掲載情報: {meta}"
+                if abstract:
+                    line += f"\n  アブストラクト抜粋: {abstract}"
                 if url:
                     line += f"\n  URL: {url}"
                 sections.append(line)
+    else:
+        sections.append("- （本日の論文データは取得できませんでした）")
 
     yt_items = data.get("YouTube テニス動画", {}).get("items", [])
     if yt_items:
@@ -87,10 +97,14 @@ def _build_prompt(data: dict) -> str:
 ・各項目末尾に【情報ソース名】を付ける
 ・URL を記載すること
 
-③ 🔬 研究・論文トピック
-・英語論文タイトルを日本語に翻訳して記載
-・コーチング実践への活用ポイントを1文添える
-・各項目末尾に【PubMed】を付ける
+③ 🔬 研究・論文トピック ★このセクションは絶対に省略しない★
+・PubMedから取得した1次情報（英語原著論文）を必ず掲載する
+・論文タイトルを自然な日本語に翻訳して記載（原題は不要）
+・掲載誌名・発行年・著者名（3名まで）を併記する
+・アブストラクトの要点を日本語で2〜3文に要約する
+・テニスコーチングへの実践的活用ポイントを1文で明記する
+・各項目末尾に【PubMed】を付け、URLを記載する
+・取得できた論文はすべて掲載すること（情報が少なくても省略しない）
 
 ④ ▶️ 注目YouTube動画
 ・タイトルを日本語訳して紹介
@@ -120,7 +134,7 @@ def generate_report(data: dict) -> str:
             prompt,
             generation_config=genai.types.GenerationConfig(
                 temperature=0.7,
-                max_output_tokens=2000,
+                max_output_tokens=4000,
             ),
         )
 

@@ -18,6 +18,44 @@ HEADERS = {
 }
 
 
+def _fetch_abstracts(pmids: list[str]) -> dict[str, str]:
+    """MEDLINE 形式でアブストラクトを一括取得する (PubMed 無料API)"""
+    if not pmids:
+        return {}
+    try:
+        resp = requests.get(
+            "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+            params={"db": "pubmed", "id": ",".join(pmids),
+                    "rettype": "medline", "retmode": "text"},
+            headers=HEADERS,
+            timeout=20,
+        )
+        resp.raise_for_status()
+        abstracts: dict[str, str] = {}
+        current_pmid = ""
+        ab_lines: list[str] = []
+        in_ab = False
+        for line in resp.text.splitlines():
+            if line.startswith("PMID- "):
+                if current_pmid and ab_lines:
+                    abstracts[current_pmid] = " ".join(ab_lines)[:400]
+                current_pmid = line[6:].strip()
+                ab_lines = []
+                in_ab = False
+            elif line.startswith("AB  - "):
+                in_ab = True
+                ab_lines.append(line[6:].strip())
+            elif in_ab and line.startswith("      "):
+                ab_lines.append(line.strip())
+            elif in_ab:
+                in_ab = False
+        if current_pmid and ab_lines:
+            abstracts[current_pmid] = " ".join(ab_lines)[:400]
+        return abstracts
+    except Exception:
+        return {}
+
+
 def fetch_pubmed(query: str) -> list[dict]:
     """PubMed から論文を検索する (無料APIを使用)"""
     results = []
@@ -39,7 +77,7 @@ def fetch_pubmed(query: str) -> list[dict]:
         if not ids:
             return results
 
-        # 論文詳細を取得
+        # 論文メタデータを取得
         fetch_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
         fetch_params = {
             "db": "pubmed",
@@ -50,6 +88,10 @@ def fetch_pubmed(query: str) -> list[dict]:
         fetch_resp = requests.get(fetch_url, params=fetch_params, headers=HEADERS, timeout=15)
         fetch_resp.raise_for_status()
         fetch_data = fetch_resp.json()
+
+        # アブストラクトを一括取得
+        time.sleep(0.5)
+        abstracts = _fetch_abstracts(ids)
 
         for pmid in ids:
             article = fetch_data.get("result", {}).get(pmid, {})
@@ -65,6 +107,7 @@ def fetch_pubmed(query: str) -> list[dict]:
                     "authors": author_str,
                     "journal": source,
                     "published": pub_date,
+                    "abstract": abstracts.get(pmid, ""),
                     "link": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
                     "query": query,
                 })
@@ -75,6 +118,7 @@ def fetch_pubmed(query: str) -> list[dict]:
             "authors": "",
             "journal": "",
             "published": "",
+            "abstract": "",
             "link": "",
             "query": query,
             "error": str(e),
