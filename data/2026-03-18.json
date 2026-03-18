@@ -1,7 +1,7 @@
 {
   "試合結果・ランキング": {
     "category": "試合結果・ランキング",
-    "collected_at": "2026-03-18T00:45:09.587487",
+    "collected_at": "2026-03-18T00:48:23.179355",
     "items": [
       {
         "source": "ATP",
@@ -16,7 +16,7 @@
   },
   "テニスニュース": {
     "category": "テニスニュース",
-    "collected_at": "2026-03-18T00:45:13.210000",
+    "collected_at": "2026-03-18T00:48:26.337763",
     "items": [
       {
         "title": "【テニス速報】 マイアミ・オープン 第1日 ジャン シューアイ vs ソラナ チルステア - ｄメニューニュース",
@@ -92,7 +92,7 @@
   },
   "テニス論文・研究": {
     "category": "テニス論文・研究",
-    "collected_at": "2026-03-18T00:45:20.661739",
+    "collected_at": "2026-03-18T00:48:33.649346",
     "items": [
       {
         "title": "Validation of the Transformer-Based Monocular System (Capture4D): A Real-Time Kinematic Analysis in Coaching/Teaching Tennis.",
@@ -146,7 +146,7 @@
   },
   "YouTube テニス動画": {
     "category": "YouTube テニス動画",
-    "collected_at": "2026-03-18T00:45:20.661799",
+    "collected_at": "2026-03-18T00:48:33.649397",
     "items": [
       {
         "title": "YouTube API キー未設定",
@@ -168,5 +168,5 @@
       }
     ]
   },
-  "collected_at": "2026-03-18T00:45:20.661803"
+  "collected_at": "2026-03-18T00:48:33.649401"
 }
