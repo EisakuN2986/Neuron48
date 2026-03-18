@@ -1,7 +1,7 @@
 {
   "試合結果・ランキング": {
     "category": "試合結果・ランキング",
-    "collected_at": "2026-03-18T01:33:22.281103",
+    "collected_at": "2026-03-18T21:32:18.844478",
     "items": [
       {
         "source": "ATP",
@@ -16,34 +16,111 @@
   },
   "テニスニュース": {
     "category": "テニスニュース",
-    "collected_at": "2026-03-18T01:33:24.847246",
+    "collected_at": "2026-03-18T21:32:21.399970",
     "items": [
       {
-        "title": "本戦がスタート、内田海智ら日本勢6人が男子シングルス2回戦へ [M15Team REC早稲田大学インターナショナルテニスオープン]（テニスマガジンONLINE） - Yahoo!ニュース",
-        "summary": "本戦がスタート、内田海智ら日本勢6人が男子シングルス2回戦へ [M15Team REC早稲田大学インターナショナルテニスオープン]（テニスマガジンONLINE）&nbsp;&nbsp;Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Xa2prUUVXa3l0ZTFpZWRXWGtJbExoak5HMnVGQngyTlJNQmZsVWFiV1hSbl9SV0xab3U4Q3FGVUFfSjVIejlYMlA3VUI3UGlodmROTHJkQU03RVEtcE9lbTh6VUJrQzdqamp3VF9GVEwteXdqdVNzTEMxNlNzMGc?oc=5",
-        "published": "Wed, 18 Mar 2026 01:00:00 GMT",
+        "title": "【全力応援！】筑陽学園「格好いい姿を」 全国選抜高校テニス、初の男女出場で闘志 女子エース小崎「8強に」 - 西日本新聞me",
+        "summary": "【全力応援！】筑陽学園「格好いい姿を」 全国選抜高校テニス、初の男女出場で闘志 女子エース小崎「8強に」&nbsp;&nbsp;西日本新聞me",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VVW1yWkJRY0V4NUNYc3BIaGY2UlFmeVlWclpEUmE5SGltVVhwbWFBSFZvZWZUdGtnalVfU3RxS3hnUXVlME1XcFRKVXNfTjlGTlotLUpn?oc=5",
+        "published": "Wed, 18 Mar 2026 21:00:00 GMT",
         "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
       },
       {
-        "title": "元世界13位 手術経て848日ぶりの復帰 - スポーツブル",
-        "summary": "元世界13位 手術経て848日ぶりの復帰&nbsp;&nbsp;スポーツブル",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5Nm5ZVTJPbjYzZVVabHoybTVzbTJNLUF6WDBSb3BVcExjVXRGTmlmNDBtRDhzRVBXU3BHOFZVMnJfUE5PV0tR?oc=5",
-        "published": "Wed, 18 Mar 2026 00:40:00 GMT",
+        "title": "10 ATP matches cancelled due to rain on Day 1 in Miami, view revised schedule",
+        "summary": "Rain disrupted play at the Miami Open presented by Itau on Wednesday, with 10 ATP Tour matches — including Grigor Dimitrov’s first-round meeting against Raphael Collignon — postponed due to inclement weather.\nIn total, four ATP matches are still scheduled to be completed later on Wednesday, while th",
+        "link": "https://www.atptour.com/en/news/miami-2026-rain-delay",
+        "published": "Wed, 18 Mar 2026 20:45:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "What is the Miami tennis schedule?",
+        "summary": "Main draw action in the men's singles draw at the Miami Open presented by Itau begins Wednesday in Florida.\nThere were 10 ATP Tour matches cancelled due to a rain delay, but four are still set to go ahead, following the revised order of play. These include the former No. 10 player in the PIF ATP Ran",
+        "link": "https://www.atptour.com/en/news/miami-2026-schedule",
+        "published": "Wed, 18 Mar 2026 20:41:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "Bon Jovi meets Safin, Fonseca, Rublev in Miami",
+        "summary": "Rock and tennis came together on Wednesday at the Miami Open presented by Itau, where Bon Jovi met Marat Safin, Joao Fonseca and Andrey Rublev.\nThe rock icon enjoyed an easy-going chat with ATP No. 1 Club Member Safin and Rublev before Safin and Bon Jovi posed for a photo. The American star then spe",
+        "link": "https://www.atptour.com/en/news/bon-jovi-safin-rublev-miami-2026",
+        "published": "Wed, 18 Mar 2026 20:40:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "Shelton: ‘It was a tough little stretch for me’ at Indian Wells, ready for Miami",
+        "summary": "Last week at the BNP Paribas Open in Indian Wells, Ben Shelton faced a setback when he suffered a third-round defeat to Learner Tien while battling the flu. Known for his explosive energy on court, the lefty was visibly flat throughout his three-set loss.\nTen days later, the No. 9 player in the PIF ",
+        "link": "https://www.atptour.com/en/news/shelton-miami-2026-preview",
+        "published": "Wed, 18 Mar 2026 19:33:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "Why Mensik’s ‘new opportunity’ in Miami could shape his Top 10 push",
+        "summary": "Defending champion Jakub Mensik returns to the Miami Open presented by Itau balancing the weight of expectation with the momentum of a statement start to the season, in which he is pushing toward a Top 10 debut.\nThe 20-year-old Czech arrives with significant points to defend after last year’s dream ",
+        "link": "https://www.atptour.com/en/news/mensik-miami-2026-pif-atp-live-projection",
+        "published": "Wed, 18 Mar 2026 19:22:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "Alcaraz's latest tattoo tribute: Aussie Aussie Aussie, Ink Ink Ink",
+        "summary": "Every major champion has their rituals, but Carlos Alcaraz might have just raised the bar again. True to his word following the Australian Open, the Spaniard didn’t let his Melbourne triumph linger only in memory.\nInstead, the 22-year-old turned it into art, adding a new tattoo to his lower left leg",
+        "link": "https://www.atptour.com/en/news/alcaraz-kangaroo-tattoo-march-2026",
+        "published": "Wed, 18 Mar 2026 15:48:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "全国高校選抜大会に挑む！ 日本一目指す佐土原高校男子テニス部（宮崎ニュースUMK） - Yahoo!ニュース",
+        "summary": "全国高校選抜大会に挑む！ 日本一目指す佐土原高校男子テニス部（宮崎ニュースUMK）&nbsp;&nbsp;Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PNFJYby1BZTFwSnl2ckVXTmdYRXJvUHBLQ1dYS21heFlVQnFTVzkyRGQ4MVRLck04YldaODBtc1VWOUVLZjVTNGZlUEZtN19Dc0xrWnZkNUxnX3d4dXBqcy1OQ0VVdjZIeDl3Zm40MGJ6eG95TU9XbjFIV2VZXzA?oc=5",
+        "published": "Wed, 18 Mar 2026 10:39:01 GMT",
         "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
       },
       {
-        "title": "【テニス速報】 マイアミ・オープン 第1日 ジャン シューアイ vs ソラナ チルステア - ｄメニューニュース",
-        "summary": "【テニス速報】 マイアミ・オープン 第1日 ジャン シューアイ vs ソラナ チルステア&nbsp;&nbsp;ｄメニューニュース",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQnZjWFZIOFFzUjZ3dU5JLWozdURxUFNuY0tmTWJFQ1NZZ3pMbE1rUl9MQUNjc1hmdnp2SUlqbEF0X2U0TWdOXzFRbGJtOFJsZDFWNW5CaVI0QUIzTE12YzdGSHQ0MkNtSEV5bnJ4R0U0eEZtdG1QRFZyaVczWTZpY0JkUXXSAYoBQVVfeXFMTmhUTTZlZ3Jqd09uYXZVWXVRUHF3T2ctTE5nQXZHQUFOclR1T1hvVnRGd3hyRkRBTU9rajE1WHJpRUg1Zk9KNjBiODdZeld1SWRvMVFsbEttYks5ZTRMbndiMF9kdE55MlBYNm9jZHRtRWZSTUY2eDFvM1UzZ2RTUXZYRUJ4VUlYZVJn?oc=5",
-        "published": "Wed, 18 Mar 2026 00:12:00 GMT",
+        "title": "島袋将はバシラシビリに敗れて5大会連続予選突破ならず [マイアミ・オープン／テニス]（テニスマガジンONLINE） - Yahoo!ニュース",
+        "summary": "島袋将はバシラシビリに敗れて5大会連続予選突破ならず [マイアミ・オープン／テニス]（テニスマガジンONLINE）&nbsp;&nbsp;Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QcTRKUFl2ZWZnTHVYSEZucGtXVHN3X1NZV0w0STFyanNobEkwSEhCTHdfR2N1MXh5NWtSS3RqdHlfQVhzTWVLR05PeFNlSnlBc1dtaXJRVGs3THNEWWNpVHV6UUJfUWxLeUhuNFJOY3JVRUk1LXpyYkV2TjFoYlk?oc=5",
+        "published": "Wed, 18 Mar 2026 09:00:00 GMT",
         "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
       },
       {
-        "title": "【テニス速報】 マイアミ・オープン 第1日 ケイティ ボウルター vs ジェシカ ボウサス マネイロ - ｄメニューニュース",
-        "summary": "【テニス速報】 マイアミ・オープン 第1日 ケイティ ボウルター vs ジェシカ ボウサス マネイロ&nbsp;&nbsp;ｄメニューニュース",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUxQWnBieFFaeTQwd1BhMzE1RWNIXzYwbWluTGZVYmFZNmh0MUJNZWtCNTdJSDRKSDgtOWpMeFdITUJad2ZWenVsMHpxM2pWSVRrcWJ3V3ZDZFRsRlA4UEZ6dzExZTBIbFdiUmEyMWtYQVZTVm93emV5em1GSk9JTGUzbnbSAYoBQVVfeXFMUERDU0ZCU3RQc01GRkZVblg1cjJ4enlLTWsxclg2bHVaYzBLUi15dnF4eXJVQlVRYWs4Y1N0aDY0ZkUwM2NPbUxFS21BUmRURmFFNmQ3M253bVVnUVRKVkFzMEZJT0pDTU9ubUJwd0dtN1ZEUjdIdEVoWEVSQ0pJVlJKNG9YenM5T2VR?oc=5",
-        "published": "Tue, 17 Mar 2026 23:18:03 GMT",
+        "title": "Samuel wants to keep momentum after rankings jump",
+        "summary": "Toby Samuel wants to maintain his winning momentum after a string of victories lifts him from 1,405th in the ATP rankings to 171st in a year.",
+        "link": "https://www.bbc.com/sport/tennis/articles/cev7mvzw0vgo?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 18 Mar 2026 08:59:53 GMT",
+        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+      },
+      {
+        "title": "Dubai withdrawal criticism ridiculous - Sabalenka",
+        "summary": "World number one Aryna Sabalenka dismisses criticism of her late withdrawal from the Dubai Championships and says she may not play at the tournament again.",
+        "link": "https://www.bbc.com/sport/tennis/articles/cj0d0973p5do?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 18 Mar 2026 08:07:54 GMT",
+        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+      },
+      {
+        "title": "When will Alcaraz, Sinner play their first match in Miami?",
+        "summary": "The intended schedule for Carlos Alcaraz and Jannik Sinner at the Miami Open presented by Itau has been released by tournament organisers.\nTop seed Alcaraz leads the field in the top half of the draw and is set to begin his event on Friday evening against Joao Fonseca or Fabian Marozsan, who are sch",
+        "link": "https://www.atptour.com/en/news/miami-2026-alcaraz-sinner-friday-saturday-schedule",
+        "published": "Wed, 18 Mar 2026 04:47:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "テニス園田彩乃がバーベルスクワットの動画を公開、背中姿にファンは「後ろで補助したい」 - スポーツブル",
+        "summary": "テニス園田彩乃がバーベルスクワットの動画を公開、背中姿にファンは「後ろで補助したい」&nbsp;&nbsp;スポーツブル",
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ab0c3OHAyTFlDZjRCRlJXaU8yQWsxNk90eDhjWHhRMUxtY0RidkZMWlNHbUxoNFFHN2g1YmxKMTNuVV93c1hF?oc=5",
+        "published": "Wed, 18 Mar 2026 03:21:54 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "テニス園田彩乃がバーベルスクワットの動画を公開、背中姿にファンは「後ろで補助したい」 - ｄメニューニュース",
+        "summary": "テニス園田彩乃がバーベルスクワットの動画を公開、背中姿にファンは「後ろで補助したい」&nbsp;&nbsp;ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQelMzWFMzU0NfbUEwbXNOWUZlc2ZlNTRXUEpRQWt1WlFDMy16akxTa1o2ckdTQS1wUFVwT3dHQjRzNmFHXzlqeGJ3Sk9XamR3bDc0emlBUEt4d1J2R2tDaDJSUTNEdTZKeDFjUXZjVGM1enFtbEduWmYtNE5SM1hXZTZCU2pYZno4TXlucVRfTVcxLTdQaEHSAZsBQVVfeXFMT2tRY2I4ZmRfNHRDZDVneEk4blRnRE5NelhoUFZaNk55bFhCb2I2V1UwcXFzeXZqc2RpU21vMnBvVDBMTTc2RDUweFc1YVlkQ0lTUGQtYlFFa21XZ01jaTNySkFobXRHek5fM1RFUEQxbnR2REExMlh0c09pcmNxd0FmeGlaUkZISldaUjYtQjBvVGtHb1J3SklCNHc?oc=5",
+        "published": "Wed, 18 Mar 2026 03:21:00 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "【テニス速報】 マイアミ・オープン 第1日 カテリナ シニアコバ vs マリア カミラ オソリオ セラノ - ｄメニューニュース",
+        "summary": "【テニス速報】 マイアミ・オープン 第1日 カテリナ シニアコバ vs マリア カミラ オソリオ セラノ&nbsp;&nbsp;ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZWhEVklHWTJSY2FZTkxKcHpJdWtzcVFNYXBuOU1GdnRtS2U2MkJCNWZqdEdsZ2ZsUzExNVhJWlNTRWJSOW9LdGZuWE9NM2JHWnRHWWRBdjBkR01hWVZlV2dWMGtWVkZLcFZhcndTNUZ2SmM4MkMtVTVMSlRlMHZHRERvNW3SAYoBQVVfeXFMTVZGMFU2dlJ5cC12d2Z2UHhkTVpLbUptOUFRWUpnbUhjRDU3UzVSeXVQbEdPTndtdmhNY3JkS213Y1VVUjZxOU5mYXdoWUJYdzlLZ25QM212YzFfN2V2Ql9SQnFlRFMxRGR0ZUFTWUVJX0JhOUhYcFZETWVsRDM3ejY5TUNTZ3lUUHBB?oc=5",
+        "published": "Wed, 18 Mar 2026 02:42:00 GMT",
         "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
       },
       {
@@ -52,89 +129,12 @@
         "link": "https://www.atptour.com/en/news/miami-2026-wednesday-schedule-news",
         "published": "Tue, 17 Mar 2026 22:53:00 Z",
         "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
-      },
-      {
-        "title": "島袋将 完敗で予選敗退 - スポーツブル",
-        "summary": "島袋将 完敗で予選敗退&nbsp;&nbsp;スポーツブル",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oZXVqdjJpNUxzM3d0VVQwTmg5SGZlc3RpaHowZXFCbVp5Wm15TEVEMTZacUphSmRWYzBodG9UM1dud0NrYUVB?oc=5",
-        "published": "Tue, 17 Mar 2026 21:12:00 GMT",
-        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
-      },
-      {
-        "title": "Alcaraz, Sinner, Djokovic & Medvedev: Miami’s exclusive ATP No. 1 Club",
-        "summary": "There are few tournaments on the ATP Tour that reveal as much about a player&rsquo;s authority as the Miami Open presented by Itau.\nOne remarkable pattern stands out at the ATP Masters 1000 event in South Florida: every active member of the ATP No. 1 Club has also conquered Miami. From Novak Djokovi",
-        "link": "https://www.atptour.com/en/news/miami-2026-no-1-club-feature",
-        "published": "Tue, 17 Mar 2026 15:29:00 Z",
-        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
-      },
-      {
-        "title": "Who are the Miami tennis seeds?",
-        "summary": "Carlos Alcaraz and Jannik Sinner are the top two seeds, respectively, for the Miami Open presented by Itau.\nThe World No. 1, Alcaraz is seeking a fast response to his semi-final defeat to Daniil Medvedev in Indian Wells. Sinner went on to lift the trophy and complete the set of all 'Big Titles' at h",
-        "link": "https://www.atptour.com/en/news/miami-2026-seeds",
-        "published": "Tue, 17 Mar 2026 15:07:00 Z",
-        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
-      },
-      {
-        "title": "Why Miami is key for Alcaraz & Sinner's World No. 1 battle",
-        "summary": "Jannik Sinner&rsquo;s title exploits at the BNP Paribas Open helped him cut Carlos Alcaraz&rsquo;s lead in the PIF ATP Rankings. By lifting his sixth ATP Masters 1000 trophy, Sinner earned 1,000 points and reduced Alcaraz&rsquo;s advantage pre-Indian Wells lead from 2,800 to 2,150 points.\nAttention ",
-        "link": "https://www.atptour.com/en/news/alcaraz-sinner-pif-atp-rankings-projection-miami-2026",
-        "published": "Tue, 17 Mar 2026 14:35:00 Z",
-        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
-      },
-      {
-        "title": "Fontang & co. explain why the World Tennis Conference matters: 'Inspiration, knowledge & guidance'",
-        "summary": "Leading ATP Tour coaches Frederic Fontang, Alberto Castellani, Louis Cayer, Liam Smith, and Claudio Pistolesi have highlighted the growing importance of the World Tennis Conference as one of the most valuable educational platforms in the sport.\nAs the event returns for its sixth edition, many of the",
-        "link": "https://www.atptour.com/en/news/world-tennis-conference-2026-testimonials",
-        "published": "Tue, 17 Mar 2026 13:59:00 Z",
-        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
-      },
-      {
-        "title": "Jannik Sinner: Miami draw, history, recent results & more",
-        "summary": "Jannik Sinner is a former champion at the Miami Open presented by Itau. Read all about the Italian's results, records and statistics entering the 2026 edition of the ATP Masters 1000 event here.&nbsp;\nWhat is Sinner's record in Miami?\nSince making his Miami debut in 2021, the No. 2 player in the PIF",
-        "link": "https://www.atptour.com/en/news/sinner-miami-2026-results-stats-titles-records-draw",
-        "published": "Tue, 17 Mar 2026 10:15:00 Z",
-        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
-      },
-      {
-        "title": "Joao Fonseca: Miami draw, history, recent results & more",
-        "summary": "Joao Fonseca is set to make his second appearance at the Miami Open presented by Itau. Read all about the 19-year-old Brazilian's results, records and statistics entering the 2026 edition of the ATP Masters 1000 event here.&nbsp;\nWhat is Fonseca's record in Miami?\nFonseca made his debut in Miami las",
-        "link": "https://www.atptour.com/en/news/fonseca-miami-2026-results-stats-titles-records-draw",
-        "published": "Tue, 17 Mar 2026 09:56:00 Z",
-        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
-      },
-      {
-        "title": "Carlos Alcaraz: Miami draw, history, recent results & more",
-        "summary": "Carlos Alcaraz is a former champion at the Miami Open presented by Itau. Read all about the Spaniard's results, records and statistics entering the 2026 edition of the ATP Masters 1000 event here.&nbsp;\nWhat is Alcaraz's record in Miami?\nSince making his Miami debut in 2021, the No. 1 player in the ",
-        "link": "https://www.atptour.com/en/news/alcaraz-miami-2026-results-stats-titles-records",
-        "published": "Tue, 17 Mar 2026 09:53:00 Z",
-        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
-      },
-      {
-        "title": "No Raducanu or Boulter in GB's BJK Cup squad",
-        "summary": "Emma Raducanu and Katie Boulter are not named in Great Britain's squad for their Billie Jean King Cup qualifier with Australia next month.",
-        "link": "https://www.bbc.com/sport/tennis/articles/c14mdznd3gko?at_medium=RSS&at_campaign=rss",
-        "published": "Thu, 12 Mar 2026 14:21:23 GMT",
-        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
-      },
-      {
-        "title": "Sinner matches Federer & Djokovic with Indian Wells win",
-        "summary": "Jannik Sinner said it \"means a lot to me\" after he becomes the youngest man to complete the set of hard-court trophies with victory over Daniil Medvedev in the Indian Wells final.",
-        "link": "https://www.bbc.com/sport/tennis/articles/cze047z42kgo?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 15 Mar 2026 23:51:23 GMT",
-        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
-      },
-      {
-        "title": "New puppy, getting engaged and a title - Sabalenka triumphs at Indian Wells",
-        "summary": "Getting a puppy, getting engaged, saving championship point and winning a long-awaited Indian Wells title - for Aryna Sabalenka it has been a week she will remember \"for the rest of my life\".",
-        "link": "https://www.bbc.com/sport/tennis/articles/cp8rgg17g15o?at_medium=RSS&at_campaign=rss",
-        "published": "Sun, 15 Mar 2026 21:48:13 GMT",
-        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
       }
     ]
   },
   "テニス論文・研究": {
     "category": "テニス論文・研究",
-    "collected_at": "2026-03-18T01:33:36.240458",
+    "collected_at": "2026-03-18T21:32:31.073405",
     "items": [
       {
         "title": "Validation of the Transformer-Based Monocular System (Capture4D): A Real-Time Kinematic Analysis in Coaching/Teaching Tennis.",
@@ -230,7 +230,7 @@
   },
   "YouTube テニス動画": {
     "category": "YouTube テニス動画",
-    "collected_at": "2026-03-18T01:33:36.240506",
+    "collected_at": "2026-03-18T21:32:31.073474",
     "items": [
       {
         "title": "YouTube API キー未設定",
@@ -252,5 +252,5 @@
       }
     ]
   },
-  "collected_at": "2026-03-18T01:33:36.240511"
+  "collected_at": "2026-03-18T21:32:31.073479"
 }
