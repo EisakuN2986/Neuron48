@@ -1,7 +1,7 @@
 {
   "試合結果・ランキング": {
     "category": "試合結果・ランキング",
-    "collected_at": "2026-03-18T00:58:53.876339",
+    "collected_at": "2026-03-18T01:07:18.988075",
     "items": [
       {
         "source": "ATP",
@@ -16,7 +16,7 @@
   },
   "テニスニュース": {
     "category": "テニスニュース",
-    "collected_at": "2026-03-18T00:58:57.125516",
+    "collected_at": "2026-03-18T01:07:22.269254",
     "items": [
       {
         "title": "【テニス速報】 マイアミ・オープン 第1日 ジャン シューアイ vs ソラナ チルステア - ｄメニューニュース",
@@ -26,18 +26,18 @@
         "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
       },
       {
-        "title": "【テニス速報】 マイアミ・オープン 第1日 ケイティ ボウルター vs ジェシカ ボウサス マネイロ - ｄメニューニュース",
-        "summary": "【テニス速報】 マイアミ・オープン 第1日 ケイティ ボウルター vs ジェシカ ボウサス マネイロ&nbsp;&nbsp;ｄメニューニュース",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUxQWnBieFFaeTQwd1BhMzE1RWNIXzYwbWluTGZVYmFZNmh0MUJNZWtCNTdJSDRKSDgtOWpMeFdITUJad2ZWenVsMHpxM2pWSVRrcWJ3V3ZDZFRsRlA4UEZ6dzExZTBIbFdiUmEyMWtYQVZTVm93emV5em1GSk9JTGUzbnbSAYoBQVVfeXFMUERDU0ZCU3RQc01GRkZVblg1cjJ4enlLTWsxclg2bHVaYzBLUi15dnF4eXJVQlVRYWs4Y1N0aDY0ZkUwM2NPbUxFS21BUmRURmFFNmQ3M253bVVnUVRKVkFzMEZJT0pDTU9ubUJwd0dtN1ZEUjdIdEVoWEVSQ0pJVlJKNG9YenM5T2VR?oc=5",
-        "published": "Tue, 17 Mar 2026 23:18:03 GMT",
-        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
-      },
-      {
         "title": "Miami Open statement on Wednesday schedule",
         "summary": "Miami Open presented by Itau tournament organisers released the following statement regarding the order of play for Wednesday, 18 March.\n&ldquo;Due to heavy rainfall in the lead up to the tournament, limited areas of the Stadium Court required additional preparation to ensure optimal conditions for ",
         "link": "https://www.atptour.com/en/news/miami-2026-wednesday-schedule-news",
         "published": "Tue, 17 Mar 2026 22:53:00 Z",
         "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "【テニス速報】 マイアミ・オープン 第1日 ラウラ シグムント vs ペトラ マルシンコ - ライブドアニュース",
+        "summary": "【テニス速報】 マイアミ・オープン 第1日 ラウラ シグムント vs ペトラ マルシンコ&nbsp;&nbsp;ライブドアニュース",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwVFBGbHB6c3pqdkxQR2N3S3ZTdTNVUDdCQzNVS3ZCQTVsMS1mOTVJbDk0aTJtaVVROTloaXpXSmZpdVNDWUprUGFFa2otV3JyQ1RobDl0UlpfWlhYa3dZ?oc=5",
+        "published": "Tue, 17 Mar 2026 22:42:06 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
       },
       {
         "title": "Alcaraz, Sinner, Djokovic & Medvedev: Miami’s exclusive ATP No. 1 Club",
@@ -92,7 +92,7 @@
   },
   "テニス論文・研究": {
     "category": "テニス論文・研究",
-    "collected_at": "2026-03-18T00:59:04.369643",
+    "collected_at": "2026-03-18T01:07:30.225433",
     "items": [
       {
         "title": "Validation of the Transformer-Based Monocular System (Capture4D): A Real-Time Kinematic Analysis in Coaching/Teaching Tennis.",
@@ -146,7 +146,7 @@
   },
   "YouTube テニス動画": {
     "category": "YouTube テニス動画",
-    "collected_at": "2026-03-18T00:59:04.369742",
+    "collected_at": "2026-03-18T01:07:30.225483",
     "items": [
       {
         "title": "YouTube API キー未設定",
@@ -168,5 +168,5 @@
       }
     ]
   },
-  "collected_at": "2026-03-18T00:59:04.369748"
+  "collected_at": "2026-03-18T01:07:30.225487"
 }
