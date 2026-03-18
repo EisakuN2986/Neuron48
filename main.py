@@ -57,8 +57,8 @@ def main():
     # データ保存
     save_path = save_data(collected_data)
 
-    # Claude API でレポート生成
-    print("\n[Claude API] モーニングレポートを生成中...")
+    # Gemini API でレポート生成
+    print("\n[Gemini API] モーニングレポートを生成中...")
     report = generate_report(collected_data)
 
     # レポートをファイルにも保存
