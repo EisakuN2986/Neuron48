@@ -1,0 +1,256 @@
+{
+  "試合結果・ランキング": {
+    "category": "試合結果・ランキング",
+    "collected_at": "2026-04-09T21:42:57.390105",
+    "items": [
+      {
+        "source": "ATP",
+        "content": "ATP Tour Challenger Currently there are no live matches available.",
+        "url": "https://www.atptour.com/en/scores/current"
+      },
+      {
+        "source": "ATP Rankings",
+        "content": "1 | C. Alcaraz | 13,590 | -\n2 | J. Sinner | 12,400 | -\n3 | A. Zverev | 5,205 | -\n4 | N. Djokovic | 4,720 | -\n5 | L. Musetti | 4,265 | 10\n6 | A. de Minaur | 4,095 | 10\n7 | F. Auger-Aliassime | 4,000 | -\n8 | 1B. Shelton | 3,900 | -\n9 | -1T. Fritz | 3,870 | -\n10 | D. Medvedev | 3,610 | 50"
+      }
+    ]
+  },
+  "テニスニュース": {
+    "category": "テニスニュース",
+    "collected_at": "2026-04-09T21:42:59.644238",
+    "items": [
+      {
+        "title": "【告知】錦織圭vsウー - tennis365.net",
+        "summary": "【告知】錦織圭vsウー&nbsp;&nbsp;tennis365.netテニス錦織圭、引退騒動後初の試合で完勝「人から引退すると聞くのは不思議な感じ」「注目されているのはありがたい」&nbsp;&nbsp;ｄメニューニュース【テニス】錦織圭「注目はありがたい」引退報道に心境「人から引退すると聞くのは不思議な感じ」&nbsp;&nbsp;nikkansports.com",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfajE2QjlhcTVzaExXV1VYRUszNmVRcGluT0F5Q052R1JnMXpkNzZ2c1QzRmIxUzF1TW15VU9FcUQ5aGZUbUVIX0U2Wi11SVAtdmJMbi15NUpVRzB1Mm93OE1vdElDdU0?oc=5",
+        "published": "Wed, 08 Apr 2026 23:51:00 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "Medvedev destroys racquet in 6-0 6-0 loss",
+        "summary": "Daniil Medvedev destroys a racquet as he suffers the first 6-0 6-0 loss of his career at the hands of Matteo Berrettini in Monte Carlo.",
+        "link": "https://www.bbc.com/sport/tennis/articles/cp9v7p34223o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 08 Apr 2026 13:15:29 GMT",
+        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+      },
+      {
+        "title": "Sinner & Alcaraz open clay-court seasons with wins",
+        "summary": "Jannik Sinner and Carlos Alcaraz continued their tussle for the world number one spot as they opened their clay-court seasons with commanding second-round wins at the Monte Carlo Masters.",
+        "link": "https://www.bbc.com/sport/tennis/articles/czex6ppn63eo?at_medium=RSS&at_campaign=rss",
+        "published": "Tue, 07 Apr 2026 14:45:56 GMT",
+        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+      },
+      {
+        "title": "福岡・飯塚ロータリークラブが71万円寄付 飯塚国際車いすテニス大会の協賛金 - au Webポータル",
+        "summary": "福岡・飯塚ロータリークラブが71万円寄付 飯塚国際車いすテニス大会の協賛金&nbsp;&nbsp;au Webポータル",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWaHVKUEpESTFXMzgxa3NPbDBveklFNTctWm1yWXJFWmh4Zzg5aEdNcXc4MGpjQ19IcWdrQ3c2aUN6bjF0TEpETHJRRnc5S1ZCMklIdUxMSEo1dzFZdUMxVEUwUFVzcml6NGpfNmdfdk94VGhLRTZOdzd1RQ?oc=5",
+        "published": "Thu, 09 Apr 2026 21:37:34 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "What were the Monte-Carlo tennis results?",
+        "summary": "The 2026 Rolex Monte-Carlo Masters continued Thursday when defending champion Carlos Alcaraz, Jannik Sinner and home hero Valentin Vacherot were among the singles winners.\nView all of the results from Thursday's at the ATP Masters 1000 event below.\nRead more from Monte-Carlo:\nAlcaraz rebounds from 2",
+        "link": "https://www.atptour.com/en/news/monte-carlo-2026-results",
+        "published": "Thu, 09 Apr 2026 19:51:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "What is the Monte-Carlo tennis schedule?",
+        "summary": "Friday's order of play at the Rolex Monte-Carlo Masters will feature defending champion Carlos Alcaraz, Jannik Sinner, Alexander Zverev and more in quarter-finals action.\nView the full Friday order of play in Monte-Carlo below.\nRead more from Monte-Carlo:\nAlcaraz rebounds from 23-error set to return",
+        "link": "https://www.atptour.com/en/news/monte-carlo-2026-schedule",
+        "published": "Thu, 09 Apr 2026 19:51:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "Vacherot makes history in Monte-Carlo, digs deep for QF spot",
+        "summary": "Valentin Vacherot made more ATP Masters 1000 history on Thursday, but this time it came on much more familiar ground at the Rolex Monte-Carlo Masters.\nThe 27-year-old drew on a vibrant home crowd to rally past former World No. 6 Hubert Hurkacz 6-7(4), 6-3, 6-4 and reach the quarter-finals at the cla",
+        "link": "https://www.atptour.com/en/news/vacherot-hurkacz-monte-carlo-2026-thursday",
+        "published": "Thu, 09 Apr 2026 19:25:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "【テニス速報】 モンテカルロ・マスターズ 第5日 バレンティン バチェロット vs フベルト フルカチュ - ｄメニューニュース",
+        "summary": "【テニス速報】 モンテカルロ・マスターズ 第5日 バレンティン バチェロット vs フベルト フルカチュ&nbsp;&nbsp;ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzkwTHBjVF9TZUxyd2NVSHB4U2NpOGFWQm01b3RJU0dQMmt1WEJFc2lVaVFQYVoxX2J0c3BqRHRtcmU1cmVzNEtkei1GU2l2UFZxQVZRQTRWU2h3N2pxS0J3NVZDR0tYeTVvaFIyc1hpc0xLenJpRDFPa3VaWmM5SXprUHkwVmRnRGp0YkJVMzFja3RLVnFF0gGKAUFVX3lxTE1LcjZKQTZESHNwNHQwYnp6ZDdxTzJmMmtJNnE0UFlsc3NkT0FnX05wdnpfT0h0VXZNT3hPeGJacVRHdklMTldtWDRpVTdHTVBveXE4Z3FDZnJVaWhFSV82QXA2Wmlqa1V5MzdXLXhPT19BMndfX1phTEF1aDZFNkltY1FDNGpUUlkzQQ?oc=5",
+        "published": "Thu, 09 Apr 2026 19:22:11 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "2026 Barcelona tennis prize money",
+        "summary": "The Barcelona Open Banc Sabadell, which this year runs from 13-19 April, has announced a prize money total of &euro;2,950,310 for the 2026 edition.\nThe singles champion will earn &euro;546,400. The winning doubles team will split &euro;191,260.\nView the full prize-money breakdown and the PIF ATP Ran",
+        "link": "https://www.atptour.com/en/news/barcelona-2026-prize-money",
+        "published": "Thu, 09 Apr 2026 19:20:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "2026 Munich tennis prize money",
+        "summary": "The BMW Open by Bitpanda Open, which this year runs from 13-19 April, has announced a prize money total of &euro;2,561,110 for the 2026 edition.\nThe singles champion will earn &euro;478,935. The winning doubles team will split &euro;157,320.\nView the full prize-money breakdown and the PIF ATP Rankin",
+        "link": "https://www.atptour.com/en/news/munich-2026-prize-money",
+        "published": "Thu, 09 Apr 2026 19:20:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "【テニス速報】 アッパーオーストリア・レディース・リンツ 第4日 ジャン シューアイ / ソラナ チルステア vs リュドミラ サムソノワ / 加藤 未唯 - ｄメニューニュース",
+        "summary": "【テニス速報】 アッパーオーストリア・レディース・リンツ 第4日 ジャン シューアイ / ソラナ チルステア vs リュドミラ サムソノワ / 加藤 未唯&nbsp;&nbsp;ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHF5N1lqd0pzVUZhMzVPRW1hdXNWSnJCeDI2M082SWpvcXlhdi1IbkpyQTlrWVB1eUdCQnZXQXYyVEJscFM5bFBXUjFzcGliemtVX2lSNnN0R1hMYlBicWU2NmxhaVo5cTlVNjAxTDZscXhjN1pvLWZGaXJ3OHJPLS02dznSAYoBQVVfeXFMTUs5Z0xmVUpRRFAxdUVDbFkyM0YzMnFOMGxlTzZsVzhyRHEwLTRMcWVid3NlUDNYUGRyYWFsOW5Bb3kzV3hiUWVmYkdLMXkybEhTZ2VTOEF3TFZJYy1YNDVrYjZBbkQ2Y1pqUl90S2RsRGUteDRrMVFzUDFYWE01LVhINUFJMWM4QmR3?oc=5",
+        "published": "Thu, 09 Apr 2026 19:12:11 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "How the ATP No. 1 Club offered a ‘memory of a lifetime’ with Muster in Monte-Carlo",
+        "summary": "There are not many opportunities to watch one of the world&rsquo;s most historic tournaments and then pick the brain of a man who was once the world&rsquo;s best player. \n The ATP No. 1 Club gave Ray and Walker Sahag just that at the 2026 Rolex Monte-Carlo Masters. The two tennis coaches from Missis",
+        "link": "https://www.atptour.com/en/news/no-1-club-atp-experiences-monte-carlo-2026",
+        "published": "Thu, 09 Apr 2026 19:09:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "【テニス速報】 アッパーオーストリア・レディース・リンツ 第4日 リリ タガー vs リュドミラ サムソノワ - ライブドアニュース",
+        "summary": "【テニス速報】 アッパーオーストリア・レディース・リンツ 第4日 リリ タガー vs リュドミラ サムソノワ&nbsp;&nbsp;ライブドアニュース",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5RWk0SjBSRnN4UlJUSlc3WGFxZjJrdDJyLXZ6eF9hdC16OHZjbTUyRExoVzNVVVR1Ym1Pa2tRaW8waUFzaTRrNU5XbjBlZGpYM0FiTGdxMGZ3cTVNVHZj?oc=5",
+        "published": "Thu, 09 Apr 2026 17:37:25 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "Heliovaara/Patten return to winning ways, defeat Berrettini/Vavassori in Monte-Carlo",
+        "summary": "Harri Heliovaara and Henry Patten got back to winning ways on Thursday at the Rolex Monte-Carlo Masters, where they ended the run of Matteo Berrettini and Andrea Vavassori 6-3, 7-6(1).\nAfter falling to Simone Bolelli and Vavassori in the Miami final, Heliovaara and Patten returned to action with a c",
+        "link": "https://www.atptour.com/en/news/granollers-zeballos-melo-zverev-monte-carlo-2026-doubles-tuesday",
+        "published": "Thu, 09 Apr 2026 16:54:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "Sinner into last eight after 37-set record snapped",
+        "summary": "Jannik Sinner drops a set at an ATP Masters event for the first time in 186 days but he reaches the Monte Carlo quarter-finals.",
+        "link": "https://www.bbc.com/sport/tennis/articles/c3r37peerpgo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 09 Apr 2026 16:52:31 GMT",
+        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+      },
+      {
+        "title": "【テニス速報】 モンテカルロ・マスターズ 第5日 アレクサンデル ブロクス vs アレックス デミノール - ライブドアニュース",
+        "summary": "【テニス速報】 モンテカルロ・マスターズ 第5日 アレクサンデル ブロクス vs アレックス デミノール&nbsp;&nbsp;ライブドアニュース",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sUHlrbjVtU2dQY1MzTFZ3bEo0bU44cGRMcmNUbmdheGM2NVRQcnhMQm9XLTJuRkRYMVR4bEFvU1NUeVBLS3FGdjY5M2x5Ny05TXFQSGI2ZVRqektYekcw?oc=5",
+        "published": "Thu, 09 Apr 2026 16:22:07 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      }
+    ]
+  },
+  "テニス論文・研究": {
+    "category": "テニス論文・研究",
+    "collected_at": "2026-04-09T21:43:09.880714",
+    "items": [
+      {
+        "title": "Do coaches and athletes share the same weight-loss practices and perceptions? Insights from 23 combat sport teams.",
+        "authors": "Meng F, Zhang Z, Langan-Evans C",
+        "journal": "Front Nutr",
+        "published": "2026",
+        "abstract": "BACKGROUND: The present study aimed to examine whether coaches' weight loss (WL) guidance practices and perceptions are consistent with those of the combat sport (CS) athletes they coach. METHODS: This study employed an observational cross-sectional approach using a survey to ascertain the WL guidance practices and perceptions of CS coaches and WL practices and perceptions of CS athletes and adopt",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41929765/",
+        "query": "tennis coaching performance"
+      },
+      {
+        "title": "An Ensemble of Long Short-Term Memory Models to Automatically Detect End-Range Movement Patterns in Men's Professional Hard Court Grand Slam Tennis.",
+        "authors": "Armstrong C, Peeling P, Murphy A",
+        "journal": "Eur J Sport Sci",
+        "published": "2026 Apr",
+        "abstract": "Evaluating end-range movements during tennis match-play can quantify high intensity load exposure and facilitate specific analysis of players' high-end physical capabilities. Currently, the process to evaluate such movement is labour intensive, with an established and efficient process to identify end-range movements lacking. Using three-dimensional pose model data for male competitors in the 2024",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41883077/",
+        "query": "tennis coaching performance"
+      },
+      {
+        "title": "Validation of the Transformer-Based Monocular System (Capture4D): A Real-Time Kinematic Analysis in Coaching/Teaching Tennis.",
+        "authors": "Zhao Y, Wang S, Gao Z",
+        "journal": "Sensors (Basel)",
+        "published": "2026 Feb 24",
+        "abstract": "Human motion capture is crucial for various fields, but traditional optical systems (OMC) are costly and restrictive. Monocular video-based methods offer accessibility, yet face accuracy challenges, especially in dynamic sports like tennis. This study validates Capture4D, a novel Transformer-based monocular system, for capturing a wide range of tennis strokes. We developed a universal biomechanica",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41829374/",
+        "query": "tennis coaching performance"
+      },
+      {
+        "title": "Exploring interpersonal neural synchrony in coach-athlete interactions: insights from naturalistic EEG hyperscanning in competitive tennis.",
+        "authors": "Crivelli D, Balconi M",
+        "journal": "Front Sports Act Living",
+        "published": "2026",
+        "abstract": "Effective communication between a coach and athlete is fundamental in sports, influencing the athlete's physical and psychological well-being, performance, and long-term development. Key principles of effective coach-athlete (Co-At) interaction include optimized communication skills, empathic resonance, mirroring, and syntonization, which enhance understanding and relational attunement. This study",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41757299/",
+        "query": "tennis coaching performance"
+      },
+      {
+        "title": "Applying the 5Cs Framework to Elite Youth Tennis: Impact Factors in a Talent Development Environment.",
+        "authors": "Harwood C, Porter K",
+        "journal": "Behav Sci (Basel)",
+        "published": "2026 Jan 25",
+        "abstract": "With the growing demands and expectations associated with professionalised youth sport environments, there is an increasing need for psychosocial development initiatives to support young athletes and their healthy progression. The aim of this study was to extend and investigate the application of the 5Cs framework, a prominent psychoeducational approach in sport psychology, to a youth tennis Talen",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41749975/",
+        "query": "tennis coaching performance"
+      },
+      {
+        "title": "Proposed modification of the playing area in table tennis for wheelchair players (C3).",
+        "authors": "BaniSaaed NM, Qasim SH, Alzoubi RT",
+        "journal": "Disabil Rehabil Assist Technol",
+        "published": "2026 Mar 28",
+        "abstract": "BACKGROUND: Short balls near the net in wheelchair table tennis reduce rally continuity and may increase injury risk due to biomechanical constraints and the limited forward reach of wheelchair players. Modifying the effective playing area may improve rally dynamics and enhance playing safety. METHODS: Twenty wheelchair table tennis players (class C3; mean age = 26.5 +/- 3 years) participated in a",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41902656/",
+        "query": "tennis biomechanics technique"
+      },
+      {
+        "title": "Eccentric Isokinetic Rehabilitation for Chronic Lateral Epicondylitis in Female Swimmers: A Randomized Controlled Trial of Bilateral Neuromuscular Adaptations and Functional Performance.",
+        "authors": "Dhahbi W, Ghouili H, Ceylan Hİ",
+        "journal": "Medicina (Kaunas)",
+        "published": "2026 Mar 5",
+        "abstract": "Background and Objectives: This study investigated the efficacy of eccentric isokinetic muscle strengthening versus passive motion protocols on neuromuscular function and performance capacity in female swimmers with chronic lateral epicondylitis. Materials and Methods: Twenty-five swimmers (age 46.1 +/- 3.1 years) with lateral epicondylitis exceeding three months' duration completed a randomized c",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41901575/",
+        "query": "tennis biomechanics technique"
+      },
+      {
+        "title": "Pickleball-Associated Achilles Tendon Ruptures: Shifting Achilles Repair Demographics.",
+        "authors": "Padley JH, Averkamp B, Rieker M",
+        "journal": "Foot Ankle Orthop",
+        "published": "2026 Jan",
+        "abstract": "BACKGROUND: Pickleball has emerged as the fastest-growing sport in the United States, with participation increasing nearly 1000% since 2019 and now surpassing 36 million players. Within the same period, tennis participation has risen by 33%. Pickleball's rapid rise, accelerated by the COVID-19 pandemic, has paralleled anecdotal reports of musculoskeletal injury, yet little is known regarding Achil",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41883878/",
+        "query": "tennis biomechanics technique"
+      },
+      {
+        "title": "Effect of 6-Month High-Impact and Resistance Exercise on Regional Strength and BMD of Spine: A Clinical Trial Combined with a Finite-Element Study.",
+        "authors": "Duan P, Nie Y, Liu S",
+        "journal": "Ann Biomed Eng",
+        "published": "2026 Mar 21",
+        "abstract": "PURPOSE: Osteoporosis often leads to a site-specific vertebral fracture due to the regional heterogeneity of mechanical competence. High-impact combined with resistance exercise showed promise in improvement of volumetric bone mineral density (vBMD) at global spine-segment level. However, localized effects of such exercise on bone mineral density and mechanical strength remain under-explored. METH",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41865150/",
+        "query": "tennis biomechanics technique"
+      },
+      {
+        "title": "Effect of Mindfulness Intervention on Cognition and Emotion in Table Tennis College Athletes: A Randomized Controlled Trial.",
+        "authors": "Qian L, Wei H, Zhu T",
+        "journal": "Am J Mens Health",
+        "published": "2026 Jan-Feb",
+        "abstract": "Mindfulness (Mind) intervention as a psychological treatment is adopted in the sports field, its effect during competition has not been fully explored yet. This study examined the impact on cognitive performance following laboratory-controlled mindfulness intervention lasting 16 weeks. In a single-blind randomized crossover design, 90 college table tennis athletes meeting inclusion criteria were r",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41721510/",
+        "query": "tennis mental performance sports psychology"
+      }
+    ]
+  },
+  "YouTube テニス動画": {
+    "category": "YouTube テニス動画",
+    "collected_at": "2026-04-09T21:43:09.880765",
+    "items": [
+      {
+        "title": "YouTube API キー未設定",
+        "description": "",
+        "url": "",
+        "query": "テニス 技術解説"
+      },
+      {
+        "title": "YouTube API キー未設定",
+        "description": "",
+        "url": "",
+        "query": "テニス コーチング"
+      },
+      {
+        "title": "YouTube API キー未設定",
+        "description": "",
+        "url": "",
+        "query": "ATP テニス 試合"
+      }
+    ]
+  },
+  "collected_at": "2026-04-09T21:43:09.880769"
+}
