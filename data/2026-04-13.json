@@ -1,0 +1,256 @@
+{
+  "試合結果・ランキング": {
+    "category": "試合結果・ランキング",
+    "collected_at": "2026-04-13T21:46:17.572224",
+    "items": [
+      {
+        "source": "ATP",
+        "content": "ATP Tour Challenger Currently there are no live matches available.",
+        "url": "https://www.atptour.com/en/scores/current"
+      },
+      {
+        "source": "ATP Rankings",
+        "content": "1 | 1J. Sinner | 13,350 | -\n2 | -1C. Alcaraz | 13,240 | -\n3 | A. Zverev | 5,555 | 50\n4 | N. Djokovic | 4,710 | -\n5 | 2F. Auger-Aliassime | 4,100 | -\n6 | 2B. Shelton | 3,900 | 10\n7 | -1A. de Minaur | 3,895 | 10\n8 | 1T. Fritz | 3,870 | -\n9 | -4L. Musetti | 3,625 | -\n10 | D. Medvedev | 3,560 | -"
+      }
+    ]
+  },
+  "テニスニュース": {
+    "category": "テニスニュース",
+    "collected_at": "2026-04-13T21:46:19.775238",
+    "items": [
+      {
+        "title": "Medvedev destroys racquet in 6-0 6-0 loss",
+        "summary": "Daniil Medvedev destroys a racquet as he suffers the first 6-0 6-0 loss of his career at the hands of Matteo Berrettini in Monte Carlo.",
+        "link": "https://www.bbc.com/sport/tennis/articles/cp9v7p34223o?at_medium=RSS&at_campaign=rss",
+        "published": "Wed, 08 Apr 2026 13:15:29 GMT",
+        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+      },
+      {
+        "title": "Sinner into last eight after 37-set record snapped",
+        "summary": "Jannik Sinner drops a set at an ATP Masters event for the first time in 186 days but he reaches the Monte Carlo quarter-finals.",
+        "link": "https://www.bbc.com/sport/tennis/articles/c3r37peerpgo?at_medium=RSS&at_campaign=rss",
+        "published": "Thu, 09 Apr 2026 16:52:31 GMT",
+        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+      },
+      {
+        "title": "モナコのアルベール2世大公、隠し子と離れてテニス観戦 シャルレーヌ公妃に気を遣って別行動か - ELLE",
+        "summary": "モナコのアルベール2世大公、隠し子と離れてテニス観戦 シャルレーヌ公妃に気を遣って別行動か&nbsp;&nbsp;ELLE",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbVJOZDF2LVNMemtBMkIwQUJDenc4TnYxTnNOWlFOQ1V6U1EwNWQ3LU40UmEzY2N5RW8zNnlfRzEwNnhsWnJ4eFNNLW9Pc0draTlDeHpzRjJZWkZJQWlPd2Z3bXFJa2VVUVRSY0tzbmRBNkp6aDVHTFYwM1NZNWVZUXdvZnF4c0gybTdxeXJJLWJWV3Frdktz?oc=5",
+        "published": "Sun, 12 Apr 2026 22:10:15 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "Sinner beats Alcaraz to return to world top spot",
+        "summary": "Jannik Sinner is back to world number one after beating Carlos Alcaraz in the final in Monte Carlo.",
+        "link": "https://www.bbc.com/sport/tennis/articles/c8dl5qge2r8o?at_medium=RSS&at_campaign=rss",
+        "published": "Sun, 12 Apr 2026 16:19:03 GMT",
+        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+      },
+      {
+        "title": "伊達公子さんの協力で実現　女子テニス国際大会「ITF　World　Tennis　Tour」宮崎で開幕 - ｄメニューニュース",
+        "summary": "伊達公子さんの協力で実現　女子テニス国際大会「ITF　World　Tennis　Tour」宮崎で開幕&nbsp;&nbsp;ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvR3R5U0pRTC1XOE5wTzRFV2JXTnZCZ3J1RmxzRzlSZWZsOXZqanFOZWRaX3UzV09qbnU3TjVoX0djZDFVcU5WUWF2ZTQxWkJsQmlDR1dvdFNSdl9uQk1BTzluaDNkQ0tvMHF0YtIBckFVX3lxTE5lMC1USnBOczNjQUIyTWUwN3FhVlhrM2RoVmRBbDVzdXlwQmNWTGdHNUpNZzVSVzI4V3daRG9HbFAwb1k1N1p6MDB6N3d6d3NZeFRVeHJCSXVKMXFNbGthd2Q4aU5oeVl1V2xVcDlpLVNTQQ?oc=5",
+        "published": "Sun, 12 Apr 2026 12:00:00 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "Alcaraz faces Sinner in Monte Carlo final",
+        "summary": "Defending champion Carlos Alcaraz will face Jannik Sinner in the final of the Monte Carlo Masters, with the winner taking the world number one spot.",
+        "link": "https://www.bbc.com/sport/tennis/articles/c77mkkgk4mvo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Apr 2026 17:20:06 GMT",
+        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+      },
+      {
+        "title": "Dart and Burrage send GB to BJK Cup finals",
+        "summary": "Harriet Dart and Jodie Burrage win the decisive doubles to send Great Britain through to the Billie Jean King Cup finals with victory against Australia.",
+        "link": "https://www.bbc.com/sport/tennis/articles/cge0zgrz0ezo?at_medium=RSS&at_campaign=rss",
+        "published": "Sat, 11 Apr 2026 08:53:47 GMT",
+        "source_url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+      },
+      {
+        "title": "【テニス速報】 ポルシェ・テニス・グランプリ 第1日 アントニア ルジッチ vs リュドミラ サムソノワ - ｄメニューニュース",
+        "summary": "【テニス速報】 ポルシェ・テニス・グランプリ 第1日 アントニア ルジッチ vs リュドミラ サムソノワ&nbsp;&nbsp;ｄメニューニューステニス - ポルシェ・テニス・グランプリ - 大会日程&nbsp;&nbsp;スポーツナビ【テニス速報】 ポルシェ・テニス・グランプリ 第1日 アレクサンドラ パノワ / ヤン ザオシャン vs イバナ コーリー / マドレーヌ ブルックス&nbsp;&nbsp;ｄメニューニュース",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSU9hYzgtamhGamtCOThsY0IwVVVZNU1rbVprdnZyS0JNelR3Wk1feW9wOUdxNzZrOXk0UXFIS3R5a3Z4YWxNYy1Ddk80Nms2akV4Ym9uNGlNS0t2YzJKcVZVcVZfQ1M5LTBqaWJnVi1KRzA4RXpDNVB4M01DM0pDWkxDanTSAYoBQVVfeXFMTmtIQkdCWVVDbThDVzhGTVBsT0RRQUVFVVJSTjhjbXhvdUpIUlI2YWItY0VlMVFYdzhJcWhzVnRrdWc3dUZlek9wWURhcTJsc0IzdnJNbkxhZjdBd25RbWhjM3U5NjNPQmIxdXBrZmF4TGFMcHRpYXdPN3VyWFFrZnpHdTFQSkpNblJn?oc=5",
+        "published": "Mon, 13 Apr 2026 21:18:45 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "「かわいいおちり！」人気グラドル、肌色過多“ティーバック”テニスルックにファン歓喜「最高に、めっちゃくちゃ可愛いです」 - Yahoo!ニュース",
+        "summary": "「かわいいおちり！」人気グラドル、肌色過多“ティーバック”テニスルックにファン歓喜「最高に、めっちゃくちゃ可愛いです」&nbsp;&nbsp;Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rdlh1R0ZjWlNUajBYZlZOMzJ4UXFrUVVxM2l5NWI2cnpqM2hiXzV1OG1YQUpybTlmWFM3Zm5UR05pXzAzZ1JHT2FpbGVPNGVlTDRxanZubjRSaFZoelZzMXRmTjVpV3pDUlRHZWtzWldzV3FfSTFWbF9JOThWSW8?oc=5",
+        "published": "Mon, 13 Apr 2026 21:08:30 GMT",
+        "source_url": "https://news.google.com/rss/search?q=テニス&hl=ja&gl=JP&ceid=JP:ja"
+      },
+      {
+        "title": "Remembering Per Renstrom",
+        "summary": "Per Renstrom, a pioneering figure in sports medicine and one of the founding contributors to medical care on the ATP Tour, passed away on 20 March in Stockholm.\nRenstrom played a central role in shaping the foundation of ATP Medical Services. As a member of the original ATP Medical Services Committe",
+        "link": "https://www.atptour.com/en/news/per-renstrom-obituary",
+        "published": "Mon, 13 Apr 2026 20:26:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "What is the Munich tennis schedule?",
+        "summary": "Tuesday's order of play at the BMW Open by Bitpanda will feature defending champion Alexander Zverev, Alexander Bublik, Flavio Cobolli and more in action.\nView the full Tuesday order of play in Munich below.\nRead more from Munich: \nShelton digs out of Munich hole, Cerundolo charges through\nBlockx lo",
+        "link": "https://www.atptour.com/en/news/munich-2026-schedule",
+        "published": "Mon, 13 Apr 2026 19:39:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "What were the Munich tennis results?",
+        "summary": "The 2026 BMW Open by Bitpanda began Monday when Ben Shelton, Francisco Cerundolo and Arthur Rinderknech were among those who won their opening matches.\nView all of the results from Monday at the ATP 500 event below.\nRead more from Munich: \nShelton digs out of Munich hole, Cerundolo charges through\nB",
+        "link": "https://www.atptour.com/en/news/munich-2026-results",
+        "published": "Mon, 13 Apr 2026 19:39:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "Sinner, Alcaraz continue to redefine No. 1 battle through shifting runs",
+        "summary": "Jannik Sinner and Carlos Alcaraz&rsquo;s battle for World No. 1 has become one of the defining narratives on the ATP Tour, with the pair now separated by just one week in the total time spent atop the PIF ATP Rankings.\nBoth men entered Sunday&rsquo;s Monte-Carlo final level on 66 career weeks at No.",
+        "link": "https://www.atptour.com/en/news/sinner-67-weeks-at-no--1-april-2026",
+        "published": "Mon, 13 Apr 2026 19:39:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "What is the Barcelona tennis schedule?",
+        "summary": "Tuesday's order of play at the Barcelona Open Banc Sabadell will feature top seed Carlos Alcaraz, Lorenzo Musetti, Alex de Minaur and more in action.\nView the full Tuesday order of play in Barcelona below.\nRead more from Barcelona\nAlcaraz eyes Barcelona bounceback, but faces tough path to title at A",
+        "link": "https://www.atptour.com/en/news/barcelona-2026-schedule",
+        "published": "Mon, 13 Apr 2026 19:21:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "What were the Barcelona tennis results?",
+        "summary": "The 2026 Barcelona Open Banc Sabadell began Monday when Cameron Norrie, Tomas Martin Etcheverry and #NextGenATP Spaniard Rafael Jodar were among those who won their first-round matches.\nView all of the results from Monday at the ATP 500 event below.\nRead more from Barcelona\nAlcaraz eyes Barcelona bo",
+        "link": "https://www.atptour.com/en/news/barcelona-2026-results",
+        "published": "Mon, 13 Apr 2026 19:21:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      },
+      {
+        "title": "Draper: 'I will work my way out of this'",
+        "summary": "Jack Draper suffered a heartbreaking exit from the Barcelona Open Banc Sabadell on Monday when the Briton retired in the third set of his opening-round clash against Tomas Martin Etcheverry due to injury.\n\nThe 24-year-old was trailing 1-4 in the third set when he walked to the net and ended the cont",
+        "link": "https://www.atptour.com/en/news/draper-barcelona-2026-monday-retirement",
+        "published": "Mon, 13 Apr 2026 18:44:00 Z",
+        "source_url": "https://www.atptour.com/en/media/rss-feed/xml-feed"
+      }
+    ]
+  },
+  "テニス論文・研究": {
+    "category": "テニス論文・研究",
+    "collected_at": "2026-04-13T21:46:32.927191",
+    "items": [
+      {
+        "title": "Do coaches and athletes share the same weight-loss practices and perceptions? Insights from 23 combat sport teams.",
+        "authors": "Meng F, Zhang Z, Langan-Evans C",
+        "journal": "Front Nutr",
+        "published": "2026",
+        "abstract": "BACKGROUND: The present study aimed to examine whether coaches' weight loss (WL) guidance practices and perceptions are consistent with those of the combat sport (CS) athletes they coach. METHODS: This study employed an observational cross-sectional approach using a survey to ascertain the WL guidance practices and perceptions of CS coaches and WL practices and perceptions of CS athletes and adopt",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41929765/",
+        "query": "tennis coaching performance"
+      },
+      {
+        "title": "An Ensemble of Long Short-Term Memory Models to Automatically Detect End-Range Movement Patterns in Men's Professional Hard Court Grand Slam Tennis.",
+        "authors": "Armstrong C, Peeling P, Murphy A",
+        "journal": "Eur J Sport Sci",
+        "published": "2026 Apr",
+        "abstract": "Evaluating end-range movements during tennis match-play can quantify high intensity load exposure and facilitate specific analysis of players' high-end physical capabilities. Currently, the process to evaluate such movement is labour intensive, with an established and efficient process to identify end-range movements lacking. Using three-dimensional pose model data for male competitors in the 2024",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41883077/",
+        "query": "tennis coaching performance"
+      },
+      {
+        "title": "Validation of the Transformer-Based Monocular System (Capture4D): A Real-Time Kinematic Analysis in Coaching/Teaching Tennis.",
+        "authors": "Zhao Y, Wang S, Gao Z",
+        "journal": "Sensors (Basel)",
+        "published": "2026 Feb 24",
+        "abstract": "Human motion capture is crucial for various fields, but traditional optical systems (OMC) are costly and restrictive. Monocular video-based methods offer accessibility, yet face accuracy challenges, especially in dynamic sports like tennis. This study validates Capture4D, a novel Transformer-based monocular system, for capturing a wide range of tennis strokes. We developed a universal biomechanica",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41829374/",
+        "query": "tennis coaching performance"
+      },
+      {
+        "title": "Exploring interpersonal neural synchrony in coach-athlete interactions: insights from naturalistic EEG hyperscanning in competitive tennis.",
+        "authors": "Crivelli D, Balconi M",
+        "journal": "Front Sports Act Living",
+        "published": "2026",
+        "abstract": "Effective communication between a coach and athlete is fundamental in sports, influencing the athlete's physical and psychological well-being, performance, and long-term development. Key principles of effective coach-athlete (Co-At) interaction include optimized communication skills, empathic resonance, mirroring, and syntonization, which enhance understanding and relational attunement. This study",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41757299/",
+        "query": "tennis coaching performance"
+      },
+      {
+        "title": "Applying the 5Cs Framework to Elite Youth Tennis: Impact Factors in a Talent Development Environment.",
+        "authors": "Harwood C, Porter K",
+        "journal": "Behav Sci (Basel)",
+        "published": "2026 Jan 25",
+        "abstract": "With the growing demands and expectations associated with professionalised youth sport environments, there is an increasing need for psychosocial development initiatives to support young athletes and their healthy progression. The aim of this study was to extend and investigate the application of the 5Cs framework, a prominent psychoeducational approach in sport psychology, to a youth tennis Talen",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41749975/",
+        "query": "tennis coaching performance"
+      },
+      {
+        "title": "Gender- and age-specific patterns of tennis-related injuries in pediatric populations: Insights from emergency room data (2014-2023).",
+        "authors": "Mysore A, Mothy D, Patel K",
+        "journal": "Injury",
+        "published": "2026 Mar 30",
+        "abstract": "INTRODUCTION: Pediatric tennis participation has grown steadily, yet limited research exists on sex- and age-based injury differences in this population. Understanding these patterns can inform tailored injury prevention efforts. MATERIALS AND METHODS: We queried the National Electronic Injury Surveillance System (NEISS) for tennis-related emergency department (ED) visits in patients under 18 year",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41966791/",
+        "query": "tennis biomechanics technique"
+      },
+      {
+        "title": "Tennis Serve Biomechanics, Joint Load Mechanics and Overuse Injuries: A Narrative Review.",
+        "authors": "Martin C, Touzard P, Fourel L",
+        "journal": "Sports Med Open",
+        "published": "2026 Apr 10",
+        "abstract": "BACKGROUND: The tennis serve is a fundamental stroke in a player's performance during matches. But it may be also eminently traumatic as it causes very high joint mechanical loading which can lead to injury regardless of the player's experience, sex or age. This narrative review aims to synthesize current scientific knowledge on the key factors contributing to changes in joint mechanical loadings ",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41963739/",
+        "query": "tennis biomechanics technique"
+      },
+      {
+        "title": "Trunk function: the core of mobility performance in wheelchair tennis.",
+        "authors": "van der Slikke RMA, Rietveld T, Goosey-Tolfrey VL",
+        "journal": "Front Sports Act Living",
+        "published": "2026",
+        "abstract": "INTRODUCTION: Classification in Paralympic sport aims to create a competitive and fair environment by reducing the impact of impairment on the ability to perform sport-specific activities. In wheelchair tennis (WT), current classification criteria largely rely on expert opinion rather than empirical evidence, particularly regarding trunk function. This study investigated the relationship between u",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41958819/",
+        "query": "tennis biomechanics technique"
+      },
+      {
+        "title": "Mechanical work derived using markerless motion capture provides a valid indication of acute neuromuscular fatigue in tennis.",
+        "authors": "Emmerson J, Needham L, Williams S",
+        "journal": "PLoS One",
+        "published": "2026",
+        "abstract": "Whilst workload monitoring is key to managing performance and injury risk, effective strategies in tennis are not well-established. Mechanical work (external and internal components), measurable through markerless motion capture approaches, provides a novel way to quantify workload. To determine the suitability of this approach, this study investigated the association between mechanical work and a",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41955206/",
+        "query": "tennis biomechanics technique"
+      },
+      {
+        "title": "Proposed modification of the playing area in table tennis for wheelchair players (C3).",
+        "authors": "BaniSaaed NM, Qasim SH, Alzoubi RT",
+        "journal": "Disabil Rehabil Assist Technol",
+        "published": "2026 Mar 28",
+        "abstract": "BACKGROUND: Short balls near the net in wheelchair table tennis reduce rally continuity and may increase injury risk due to biomechanical constraints and the limited forward reach of wheelchair players. Modifying the effective playing area may improve rally dynamics and enhance playing safety. METHODS: Twenty wheelchair table tennis players (class C3; mean age = 26.5 +/- 3 years) participated in a",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/41902656/",
+        "query": "tennis biomechanics technique"
+      }
+    ]
+  },
+  "YouTube テニス動画": {
+    "category": "YouTube テニス動画",
+    "collected_at": "2026-04-13T21:46:32.927246",
+    "items": [
+      {
+        "title": "YouTube API キー未設定",
+        "description": "",
+        "url": "",
+        "query": "テニス 技術解説"
+      },
+      {
+        "title": "YouTube API キー未設定",
+        "description": "",
+        "url": "",
+        "query": "テニス コーチング"
+      },
+      {
+        "title": "YouTube API キー未設定",
+        "description": "",
+        "url": "",
+        "query": "ATP テニス 試合"
+      }
+    ]
+  },
+  "collected_at": "2026-04-13T21:46:32.927250"
+}
