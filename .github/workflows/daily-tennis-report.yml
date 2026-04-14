@@ -1,10 +1,7 @@
 name: 🎾 Daily Tennis Morning Report
 
 on:
-  schedule:
-    # 毎朝6時 (JST = UTC+9) に実行: UTC 21:00 = JST 06:00
-    - cron: "0 21 * * *"
-  workflow_dispatch:  # 手動実行も可能
+  workflow_dispatch:  # 手動実行のみ（自動実行は停止中）
 
 jobs:
   generate-report:
