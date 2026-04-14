@@ -41,6 +41,31 @@ YOUTUBE_QUERIES = [
     "ATP テニス 試合",
 ]
 
+# --- マーケティング RSS Feeds (海外一次情報) ---
+# ★ 海外専門メディア・公式ソースを優先 ★
+MARKETING_RSS_FEEDS = [
+    # 米国・グローバル（最上位一次情報）
+    "https://adage.com/rss",                                          # Ad Age
+    "https://www.adweek.com/feed/",                                   # Adweek
+    "https://digiday.com/feed/",                                      # Digiday
+    "https://www.marketingdive.com/feeds/news/",                      # Marketing Dive
+    # 英国・欧州
+    "https://www.marketingweek.com/feed/",                            # Marketing Week (UK)
+    "https://www.thedrum.com/rss",                                    # The Drum
+    # 専門分野（コンテンツ・SNS・インバウンド）
+    "https://contentmarketinginstitute.com/feed/",                    # Content Marketing Institute
+    "https://www.socialmediaexaminer.com/feed/",                      # Social Media Examiner
+    "https://blog.hubspot.com/marketing/rss.xml",                     # HubSpot Marketing Blog
+]
+
+# --- マーケティング学術論文クエリ (Semantic Scholar) ---
+MARKETING_RESEARCH_QUERIES = [
+    "digital marketing strategy consumer behavior",
+    "content marketing brand engagement",
+    "social media marketing effectiveness ROI",
+    "influencer marketing purchase intention",
+]
+
 # --- データ保存先 ---
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 
@@ -49,3 +74,5 @@ MAX_NEWS_ITEMS = 8
 MAX_PAPERS = 5
 MAX_YOUTUBE_VIDEOS = 5
 MAX_MATCH_RESULTS = 5
+MAX_MARKETING_NEWS_ITEMS = 8
+MAX_MARKETING_PAPERS = 5
