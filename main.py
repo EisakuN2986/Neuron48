@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 from config import DATA_DIR
-from collectors import atp_wta, rss_feeds, scholar, youtube
+from collectors import atp_wta, wta, rss_feeds, scholar, youtube
 from processor.summarizer import generate_report
 from processor.html_generator import generate_html
 from notifier.line_messaging import send_report
@@ -17,20 +17,24 @@ REPORTS_DIR = os.path.join(DOCS_DIR, "reports")
 
 def collect_all() -> dict:
     """全カテゴリの情報を収集する"""
-    print("[1/4] ATP/WTA 試合結果・ランキングを収集中...")
+    print("[1/5] ATP 試合結果・ランキングを収集中...")
     match_data = atp_wta.collect()
 
-    print("[2/4] テニスニュース (RSS) を収集中...")
+    print("[2/5] WTA 試合結果・ランキングを収集中...")
+    wta_data = wta.collect()
+
+    print("[3/5] テニスニュース (RSS) を収集中...")
     news_data = rss_feeds.collect()
 
-    print("[3/4] 論文・研究情報 (PubMed) を収集中...")
+    print("[4/5] 論文・研究情報 (PubMed) を収集中...")
     paper_data = scholar.collect()
 
-    print("[4/4] YouTube テニス動画情報を収集中...")
+    print("[5/5] YouTube テニス動画情報を収集中...")
     yt_data = youtube.collect()
 
     return {
         match_data["category"]: match_data,
+        wta_data["category"]: wta_data,
         news_data["category"]: news_data,
         paper_data["category"]: paper_data,
         yt_data["category"]: yt_data,

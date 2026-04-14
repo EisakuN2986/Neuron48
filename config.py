@@ -16,7 +16,10 @@ YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "")
 RSS_FEEDS = [
     # 海外公式・1次情報（優先）
     "https://www.atptour.com/en/media/rss-feed/xml-feed",       # ATP Tour 公式
+    "https://www.wtatennis.com/rss",                             # WTA Tour 公式
     "https://feeds.bbci.co.uk/sport/tennis/rss.xml",            # BBC Sport Tennis
+    "https://www.espn.com/espn/rss/tennis/news",                 # ESPN Tennis
+    "https://www.eurosport.com/tennis/rss.xml",                  # Eurosport Tennis
     "https://www.tennisworldusa.org/rss/news.xml",               # Tennis World USA
     "https://www.tennis.com/rss/",                               # Tennis.com
     # 日本語ソース（補足）
